@@ -1,13 +1,11 @@
 ## Hi there 👋
 
+Welcome to someone Developer's Infoground.\
+I'm public computer application Developer & Mechanical designer, ... and IMTH part-time instructor.\
+Currently, I'm learning C and Python, and Teaching to Computeer Aided Design(a.k.a CAD)\
+Future) I'll be a computerized worker at a public company. 
 
-<img src="https://img.shields.io/badge/C-script-brightgreen"/>
-
-
-
-
-
-
+Lastly, The most important thing is an unbreakable spirit Right? :) 
 
 <!--
 **wewe4917/wewe4917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
