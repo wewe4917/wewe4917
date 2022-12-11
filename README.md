@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 <img src="https://img.shields.io/badge/C-script-brightgreen"/>
