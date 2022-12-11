@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 
-https://img.shields.io/badge/C-script-brightgreen
-
-
-
-
+<img src="https://img.shields.io/badge/C-script-brightgreen"/>
 
 
 
