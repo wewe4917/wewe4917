@@ -2,7 +2,7 @@
 
 Welcome to someone Developer's Infoground. 🎄\
 I'm public computer application Developer & Mechanical designer, ... and IMTH part-time instructor.\
-Currently, I'm learning C and Python, and Teaching to Computeer Aided Design(a.k.a CAD) 
+Currently, I'm learning C and Python, and Teaching to Computer Aided Design(a.k.a CAD) 
 
 ### 📔 Learning Code Stacks 📔
 <img src="https://img.shields.io/badge/C Code-000000?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-FF7328?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
