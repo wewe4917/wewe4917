@@ -3,7 +3,7 @@
 Welcome to someone Developer's Infoground.\
 I'm public computer application Developer & Mechanical designer, ... and IMTH part-time instructor.\
 Currently, I'm learning C and Python, and Teaching to Computeer Aided Design(a.k.a CAD)\
-Future) I'll be a computerized worker at a public company. 
+I'll be a computerized worker at a public company. 
 
 Lastly, The most important thing is an unbreakable spirit Right? :) 
 
