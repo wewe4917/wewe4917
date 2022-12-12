@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! 👋
 
 Welcome to someone Developer's Infoground.\
 I'm public computer application Developer & Mechanical designer, ... and IMTH part-time instructor.\
