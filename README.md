@@ -19,7 +19,7 @@ Currently, I'm learning C and Python, and Teaching to Computeer Aided Design(a.k
 <img src="https://img.shields.io/badge/AutoDesk-0696D7?style=for-the-badge&logo=AutoDesk&logoColor=white"/> <img src="https://img.shields.io/badge/Dassault Systèmes-005386?style=for-the-badge&logo=Dassault Systèmes&logoColor=white"/>
 
 #### 🏫 Thanks for Supports 😊
-*![image](https://user-images.githubusercontent.com/85292541/207041345-06e84706-e89b-4951-9304-16777d4ba104.png) IMTH, Q-net(Incheon), Elbin(https://github.com/dh3183)*
+*<img src="https://user-images.githubusercontent.com/70050528/189471349-b61089ef-38fa-4c0a-acd5-776f094f0809.png" width="23"> IMTH, Q-net(Incheon), Elbin(https://github.com/dh3183)*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wewe4917&show_icons=true&theme=maroongold)
 
